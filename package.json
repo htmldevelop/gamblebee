@@ -1,5 +1,5 @@
 {
-  "name": "focuspay",
+  "name": "gamblebee",
   "version": "1.0.0",
   "description": "Nuxt.js project",
   "author": "Sergey Ryabov",
@@ -14,8 +14,7 @@
   },
   "dependencies": {
     "animejs": "^3.1.0",
-    "nuxt": "^2.0.0",
-    "odometer": "^0.4.8"
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
